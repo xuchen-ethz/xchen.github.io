@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "IM Avatar: Implicit Morphable Head Avatars from Videos"
+date:   2022-06-01 00:00:00 +00:00
+image: https://ait.ethz.ch/assets/projects/IMavatar/teaser.gif
+categories: research
+author: "Yufeng Zheng"
+authors: "Yufeng Zheng, Victoria Abrevaya, Marcel Buehler, <strong>Xu Chen</strong>, Michael Black, Otmar Hilliges"
+venue: "Computer Vision and Pattern Recognition (CVPR)"
+paper: https://arxiv.org/abs/2112.07471
+code: https://github.com/zhengyuf/IMavatar
+website: 
+video: https://youtu.be/915baJNX-IU
+award: "Accepted as Oral Presentation"
+data: https://dataset.ait.ethz.ch/downloads/imaOsdfvRe/
+---
+
+<!-- 
+@InProceedings{zheng2022IMavatar,
+  title={IM Avatar: Implicit Morphable Head Avatars from Videos},
+  author={Zheng, Yufeng and Abrevaya, Victoria Fernández and Bühler, Marcel C. and Chen, Xu and Black, Michael J. and Hilliges, Otmar},
+  booktitle = {Computer Vision and Pattern Recognition (CVPR)},
+  year = {2022}
+}
+-->

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Monocular Neural Image Based Rendering with Continuous View Control"
+date:   2019-10-27 00:00:00 +00:00
+image: https://ait.ethz.ch/assets/projects/cont-view-synth/teaser.gif
+categories: research
+author: "Xu Chen"
+authors: "<strong>Xu Chen*</strong>, Jie Song*, Otmar Hilliges"
+venue: "International Conference on Computer Vision (ICCV)"
+paper: https://arxiv.org/pdf/1901.01880.pdf
+code: https://github.com/xuchen-ethz/continuous_view_synthesis
+conference_url: http://iccv2019.thecvf.com/
+---
+

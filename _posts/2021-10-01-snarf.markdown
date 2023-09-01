@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "SNARF: Differentiable Forward Skinning for Animating Non-Rigid Neural Implicit Shapes"
+date:   2021-10-11 00:00:00 +00:00
+image: https://ait.ethz.ch/assets/projects/snarf/snarf_teaser.gif
+categories: research
+author: "<strong>Xu Chen</strong>"
+authors: "<strong>Xu Chen</strong>, Yufeng Zheng, Michael Black, Otmar Hilliges, Andreas Geiger"
+venue: "International Conference on Computer Vision (ICCV)"
+paper: https://arxiv.org/abs/2104.03953
+code: https://github.com/xuchen-ethz/snarf
+website: https://xuchen-ethz.github.io/snarf/
+video: https://www.youtube.com/watch?v=rCEpFTKjFHE
+conference_url: http://iccv2021.thecvf.com/
+---
+
+<!-- 
+@inproceedings{chen2021snarf,
+  title={SNARF: Differentiable Forward Skinning for Animating Non-Rigid Neural Implicit Shapes},
+  author={Chen, Xu and Zheng, Yufeng and Black, Michael J and Hilliges, Otmar and Geiger, Andreas},
+  booktitle={International Conference on Computer Vision (ICCV)},
+  year={2021}
+}
+-->

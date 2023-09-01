@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Human Performance Capture from Monocular Video in the Wild"
+date:   2021-12-01 00:00:00 +00:00
+image: https://ait.ethz.ch/assets/projects/human-performance-capture/teaser.gif
+categories: research
+author: "Chen Guo"
+authors: "Chen Guo, <strong>Xu Chen</strong>, Jie Song, Otmar Hilliges"
+venue: "International Conference on 3D Vision (3DV)"
+paper: https://files.ait.ethz.ch/projects/human-performance-capture/paper.pdf
+code: https://github.com/MoyGcc/hpcwild
+video: https://youtu.be/5M7Ytnxmhd4
+conference_url: https://3dv2021.surrey.ac.uk/
+---

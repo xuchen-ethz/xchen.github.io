@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Render In-between: Motion Guided Video Synthesis for Action Interpolation"
+date:   2021-11-22 00:00:00 +00:00
+image: https://ait.ethz.ch/assets/projects/render_in_between/teaser.gif
+categories: research
+author: "Hsuan-I Ho"
+authors: "Hsuan-I Ho, <strong>Xu Chen</strong>, Jie Song, Otmar Hilliges"
+venue: "British Machine Vision Conference (BMVC)"
+paper: https://arxiv.org/abs/2111.01029
+code: https://github.com/azuxmioy/Render-In-Between
+video: https://www.bmvc2021-virtualconference.com/conference/papers/paper_0327.html
+conference_url: https://www.bmvc2021-virtualconference.com/
+---

@@ -1,0 +1,12 @@
+---
+layout: post
+categories: research
+title: "AG3D: Learning to Generate 3D Avatars from 2D Image Collections"
+authors: Zijian Dong*, <strong>Xu Chen</strong>*, Jinlong Yang, Michael Black, Otmar Hilliges, Andreas Geiger
+date: 2023-07-01
+venue: "International Conference on Computer Vision"
+image: /images/ag3d.png
+website: https://zj-dong.github.io/AG3D/
+paper: https://zj-dong.github.io/AG3D/assets/paper.pdf
+code: https://github.com/zj-dong/AG3D
+---

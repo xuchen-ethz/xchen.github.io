@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Unpaired Pose Guided Human Image Generation"
+date:   2019-06-16 00:00:00 +00:00
+image: https://ait.ethz.ch/assets/projects/unpaired-pose/teaser.png
+categories: research
+author: "Xu Chen"
+authors: "<strong>Xu Chen</strong>, Jie Song, Otmar Hilliges"
+venue: "The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops"
+paper: https://arxiv.org/pdf/1901.02284.pdf
+code: https://github.com/xuchen-ethz/UPG-GAN
+conference_url: http://cvpr2019.thecvf.com/
+---
+

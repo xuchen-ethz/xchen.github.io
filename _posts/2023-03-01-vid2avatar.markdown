@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Vid2Avatar: 3D Avatar Reconstruction from Videos in the Wild via Self-supervised Scene Decomposition"
+date:   2023-01-01 00:00:00 +00:00
+image: https://files.ait.ethz.ch/projects/vid2avatar/teaser2.gif
+categories: research
+author: "Chen Guo"
+authors: "Chen Guo, Tianjian Jiang, <strong>Xu Chen</strong>, Jie Song, Otmar Hilliges"
+venue: "Computer Vision and Pattern Recognition (CVPR)"
+paper: https://arxiv.org/abs/2302.11566
+code: https://github.com/MoyGcc/vid2avatar
+website: https://moygcc.github.io/vid2avatar/
+video: https://youtu.be/EGi47YeIeGQ
+---
+<!-- 
+@inproceedings{guo2023vid2avatar,
+  author = {Guo, Chen and Jiang, Tianjian and Chen, Xu and Song, Jie and Hilliges, Otmar}, 
+  title = {Vid2Avatar: 3D Avatar Reconstruction from Videos in the Wild via Self-supervised Scene Decomposition}, 
+  booktitle = {Computer Vision and Pattern Recognition (CVPR)},
+  year = {2023}
+} 
+-->

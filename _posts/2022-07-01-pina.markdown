@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "PINA: Learning a Personalized Implicit Neural Avatar from a Single RGB-D Video Sequence"
+date:   2022-06-19 00:00:00 +00:00
+image: https://ait.ethz.ch/assets/projects/pina/teaser.gif
+categories: research
+author: "Zijian Dong"
+authors: "Zijian Dong*, Chen Guo*, Jie Song, <strong>Xu Chen</strong>, Andreas Geiger, Otmar Hilliges"
+venue: "Computer Vision and Pattern Recognition (CVPR)"
+paper: https://arxiv.org/abs/2203.01754
+code: 
+website: https://zj-dong.github.io/pina/
+video: https://www.youtube.com/watch?v=oGpKUuD54Qk&t=4s&ab_channel=ZijianDong
+---
+<!-- @inproceedings{dong2022pina,
+  title={PINA: Learning a Personalized Implicit Neural Avatar from a Single RGB-D Video Sequence},
+  author={Dong, Zijian and Guo, Chen and Song, Jie and Chen, Xu and Geiger, Andreas and Hilliges, Otmar},
+  booktitle = {Computer Vision and Pattern Recognition (CVPR)},
+  year = {2022}
+} -->

@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Shape-aware Multi-Person Pose Estimation from Multi-view Images"
+date:   2021-10-11 00:00:00 +00:00
+image: https://ait.ethz.ch/assets/projects/multi-human-pose/teaser.gif
+categories: research
+author: "Zijian Dong"
+authors: "Zijian Dong, Jie Song, <strong>Xu Chen</strong>, Chen Guo, Otmar Hilliges"
+venue: "International Conference on Computer Vision (ICCV)"
+paper: https://arxiv.org/abs/2110.02330
+code: https://github.com/zj-dong/Multi-Person-Pose-Estimation
+website: 
+video: https://youtu.be/KE5Jpnyqmh4
+conference_url: http://iccv2021.thecvf.com/
+---

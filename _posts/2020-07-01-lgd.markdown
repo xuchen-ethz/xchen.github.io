@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Human Body Model Fitting by Learned Gradient Descent"
+date:   2020-08-23 00:00:00 +00:00
+image: https://ait.ethz.ch/assets/projects/learned-body-fitting/teaser.gif
+categories: research
+author: "Xu Chen"
+authors: "Jie Song*, <strong>Xu Chen*</strong>, Otmar Hilliges"
+venue: "European Conference on Computer Vision (ECCV)"
+paper: https://arxiv.org/pdf/2008.08474.pdf
+code: https://github.com/InpatientJam/Learned-Gradient-Descent
+video: https://youtu.be/vv3X7Sh-DVw
+conference_url: https://eccv2020.eu/
+equal_contributions: 0, 1
+---
+
